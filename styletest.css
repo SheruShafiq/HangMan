@@ -1,0 +1,7 @@
+#btn{
+    display: none;
+}
+#btn:checked + label > img {
+    width: 75px;
+    height: 75px;
+}

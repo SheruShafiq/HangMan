@@ -1,0 +1,46 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: monospace;
+
+}
+
+h1{
+    font-family: monospace;
+}
+
+
+img{
+    width: 700px;
+}
+
+#main{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    justify-content: space-around;
+}
+
+#input{
+    display: flex;
+    flex-direction: row;
+    width: 257px;
+    height: 390px;
+    margin: 20px;
+}
+
+button{
+    padding: 10px;
+}
+
+#check{
+    width: 100px;
+        border: 5px;
+        height: 50px;
+        position: absolute;
+        z-index: 5;
+        left: 360px;
+        border-style: dashed;
+        top: 360px;
+}

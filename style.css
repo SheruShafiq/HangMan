@@ -1,0 +1,34 @@
+body{
+    
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    flex-direction: column;
+
+}
+
+img{
+    width: 500px;
+}
+
+#dashes{
+    display: flex;
+    flex-direction: row;
+}
+
+#mainu{
+    display: flex;
+    flex-direction: row;
+}
+
+#box{
+    color: rgb(0, 0, 0);
+    border-width: 12px;
+    border-color: black;
+    height: 70px;
+    width: 70px;
+}
+
+h1{
+    padding-top: 10px;
+}

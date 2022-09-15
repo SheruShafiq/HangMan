@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+audio{
+    position: absolute;
+    z-index: 0;
+    display: none;
+}
+
+h1{
+    font-family: monospace;
+}
+
+h2{
+    font-family: monospace;
+}

@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+audio{
+    position: absolute;
+    z-index: 0;
+    display: none;
+}
+
+h2{
+    font-family: monospace;
+}
+
+h1{
+    font-family: monospace;
+}
+.randomloose{
+    display: flex;
+    flex-direction: row;
+}
